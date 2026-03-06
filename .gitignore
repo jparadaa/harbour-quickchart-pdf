@@ -1,0 +1,14 @@
+# Binarios compilados
+*.exe
+
+# Archivos temporales de compilación Harbour
+*.o
+*.c
+*.ppo
+
+# Carpeta de compilación Harbour
+.hbmk/
+
+# Archivos de sistema Windows
+Thumbs.db
+desktop.ini
