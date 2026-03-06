@@ -23,4 +23,4 @@ docker run -d -p 3000:3000 ianw/quickchart
 
 Para la explicación completa del problema, la solución y el paso a paso:
 
-👉 **[Leer la entrada completa en el blog](https://TU_BLOG_URL_AQUI)**
+👉 **[Leer la entrada completa en el blog](https://jparadaa.github.io/2026/03/05/harbour-quickchart-pdf.html)**
